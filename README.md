@@ -1,4 +1,4 @@
-# how to Azure automate VM using Powershell, please use commands  from step 2-10 to create virtual machines.
+# how to Azure automate VM using Powershell.
 New-AzVm `
     -ResourceGroupName "MYDEMO01" `
     -Name "MYVM01" `
